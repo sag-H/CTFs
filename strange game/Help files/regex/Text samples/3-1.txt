@@ -1,0 +1,20 @@
+Press any key...
+Round 2!
+==================================================
+New game
+I'll go first.
+==================================================
+Available moves: 1 2 3 4 5 6 7 8 9
+Past moves:
+        Player One: None
+        Player Two: None
+Game still in progress
+I choose to play 4.
+==================================================
+==================================================
+Available moves: 1 2 3 5 6 7 8 9
+Past moves:
+        Player One: 4
+        Player Two: None
+Game still in progress
+Choose your move:

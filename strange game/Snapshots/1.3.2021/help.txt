@@ -1,0 +1,11 @@
+B --> Games To Play --> AI
+B --> Moves --> AI
+
+
+functions = [func1, func2]
+i = 0
+
+loop:
+functions[0 + i] # Func1
+functions[1 - i] # Func2
+i = 1

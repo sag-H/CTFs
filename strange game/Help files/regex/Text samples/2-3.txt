@@ -1,0 +1,18 @@
+Available moves: 8
+Past moves:
+        Player One: 1 4 5 7
+        Player Two: 9 2 3 6
+Game still in progress
+Choose your move: 8
+==================================================
+==================================================
+Available moves: None
+Past moves:
+        Player One: 1 4 5 7 8
+        Player Two: 9 2 3 6
+Game tied
+
+
+
+
+Press any key...
